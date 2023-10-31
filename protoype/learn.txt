@@ -1,0 +1,21 @@
+1 press TAB after "!" for html initial syntax
+
+2 <nav> means in this box of in between this line of code navigation will get provided within the link or outer </nav>
+
+3 <div class="nav-center"> nav-center is position of element on page it can be nav-left or nav-rigth
+            
+4 <ul class="nav-links">  marks that here we are going to use links to navigates
+
+5 <div tag help us to group diff elements in html to apple diff tags or css like
+< div class="nav-link> or < div class = "container">
+
+6     for(let i= 0;i < 6;i++){
+        addhas += hex[getrandom()]
+    }
+
+    function getrandom(){
+    return parseInt(Math.random()*hex.length);
+}
+function to generate random index number for fetch from array
+how to generat n"number of " random specific element 
+and assaign that elements to array
