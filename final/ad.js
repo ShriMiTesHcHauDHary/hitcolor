@@ -6,6 +6,7 @@ btn.addEventListener("click", function(){
     let addhas = "#";
     for(let i = 0;i < 6;i++){
         addhas += colors[getran()]
+        console.log(addhas)
     }
 
     document.body.style.background = addhas
